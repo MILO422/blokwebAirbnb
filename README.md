@@ -41,7 +41,7 @@ De website is semi moeilijk, ik wou iets cools uitzoeken maar toch niet te moeli
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Locatie pagina:  https://www.airbnb.nl/s/Den-Haag/homes?place_id=ChIJcb2YQi-3xUcREGwejVreAAQ&refinement_paths%5B%5D=%2Fhomes&search_type=section_navigation
-<img src="https://user-images.githubusercontent.com/38405579/133742457-0df506df-fb4b-4a42-8750-bc20780b2521.PNG" width="150px" alt="eerste pagina">
+<img src="https://user-images.githubusercontent.com/38405579/133746456-efe6d51f-8bb7-4ec8-b85b-9a39b45f38df.png" width="150px" alt="eerste pagina">
 
 Deze pagina gaat ook een hele challenge worden de kaart hoeft niet specifiek te werken maar zou het leuk vinden als het idee van de paginas overeenkomen.
  
