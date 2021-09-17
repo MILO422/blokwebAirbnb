@@ -1,4 +1,4 @@
-# Procesverslag <img src="https://user-images.githubusercontent.com/38405579/133743564-b901506f-2068-4f3d-af27-339beffbc174.png" width="300px" alt="eerste pagina">
+# Procesverslag <img src="https://user-images.githubusercontent.com/38405579/133743564-b901506f-2068-4f3d-af27-339beffbc174.png" width="100px" alt="eerste pagina">
 Blok web 17/09/2021 Milo van Sluis last updated
 
 
