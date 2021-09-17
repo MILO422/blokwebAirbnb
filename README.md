@@ -3,6 +3,7 @@
 # Procesverslag 
 Blok web 17/09/2021 Milo van Sluis 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Jij
 
@@ -21,6 +22,7 @@ Responsive
 </details>
 Responsive proberen indien dit niet lukt, over op Surface. ik heb weinig ervaring maar weet wel wat dingen over html, helaas match ik niet met code ik ben te niet visueel om met code om te gaan wel ga ik het weer proberen as hard as I can :).
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -61,7 +63,7 @@ en kan nog veranderen indien dit niet mogelijk is voor mij
 </details>
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Breakdownschets (week 1)
@@ -109,7 +111,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 </details>
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Voortgang 2 (week 3)
@@ -143,7 +145,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 </details>
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Toegankelijkheidstest (week 4)
@@ -180,7 +182,7 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 </details>
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Voortgang 3 (week 4)
@@ -213,7 +215,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 </details>
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Eindgesprek (week 5)
@@ -235,7 +237,7 @@ hier screenshot(s) van je eindresultaat
 </details>
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Bronnenlijst
@@ -250,3 +252,6 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 3. ...
 
 </details>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
