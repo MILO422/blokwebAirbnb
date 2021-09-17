@@ -90,6 +90,8 @@ Breakdownschets Mobiel + Desktop, de desktop versie heb ik vanaf de frontend poi
 
 <details>
 <summary>uitwerken voor 1e voortgang</summary>
+ 
+<br><img src="https://user-images.githubusercontent.com/38405579/133742736-ffbe3703-c6ca-4288-8b73-d707407c7c09.jpg" width="300px" alt="eerste pagina"><br>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
@@ -112,8 +114,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - punt 2
 - nog een punt
 - ...
- <img src="https://user-images.githubusercontent.com/38405579/133742736-ffbe3703-c6ca-4288-8b73-d707407c7c09.jpg" width="300px" alt="eerste pagina"><br>
- 
+
 
 
 
@@ -127,6 +128,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 <details>
 <summary>uitwerken voor 2e voortgang</summary>
+ 
+<br><img src="https://user-images.githubusercontent.com/38405579/133742739-6adea77e-37ed-466d-8093-9c96afe9aad2.jpg" width="300px" alt="eerste pagina"><br>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
@@ -149,7 +152,6 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - punt 2
 - nog een punt
 - ...
- <img src="https://user-images.githubusercontent.com/38405579/133742739-6adea77e-37ed-466d-8093-9c96afe9aad2.jpg" width="300px" alt="eerste pagina"><br>
 
 </details>
 
