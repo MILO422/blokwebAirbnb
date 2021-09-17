@@ -34,21 +34,21 @@ Airbnb homepagina plus (Locatie pagina met map/Ontdekken pagina)
 
 #### Screenshot van De eerste Pagina (small screen): 
 Home pagina Airbnb: https://www.airbnb.nl
-<img src="https://user-images.githubusercontent.com/38405579/133746467-588f64ab-9e50-4c22-9386-152605784500.png" width="150px" alt="eerste pagina"><br>
+<br><img src="https://user-images.githubusercontent.com/38405579/133746467-588f64ab-9e50-4c22-9386-152605784500.png" width="150px" alt="eerste pagina"><br>
 
 De website is semi moeilijk, ik wou iets cools uitzoeken maar toch niet te moelijk. (dit heb ik zeer onderschat het bouwen gaat totaal niet zo soepel als ik had verwacht)
 
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Locatie pagina:  https://www.airbnb.nl/s/Den-Haag/homes?place_id=ChIJcb2YQi-3xUcREGwejVreAAQ&refinement_paths%5B%5D=%2Fhomes&search_type=section_navigation
-<img src="https://user-images.githubusercontent.com/38405579/133746456-efe6d51f-8bb7-4ec8-b85b-9a39b45f38df.png" width="150px" alt="eerste pagina"><br>
+<br><img src="https://user-images.githubusercontent.com/38405579/133746456-efe6d51f-8bb7-4ec8-b85b-9a39b45f38df.png" width="150px" alt="eerste pagina"><br>
 
 Deze pagina gaat ook een hele challenge worden de kaart hoeft niet specifiek te werken maar zou het leuk vinden als het idee van de paginas overeenkomen.
  
  
  #### Screenshot(s) Micro-interactie (small screen):
 hier de naam van de pagina 
- <img src="https://user-images.githubusercontent.com/38405579/133742744-fe3bca65-7919-41e7-8b9e-c5056a53d711.jpg" width="300px" alt="eerste pagina"><br>
+<br><img src="https://user-images.githubusercontent.com/38405579/133742744-fe3bca65-7919-41e7-8b9e-c5056a53d711.jpg" width="300px" alt="eerste pagina"><br>
 
 
 Als micro transactie had ik het idee om blaadjes uit de 
@@ -72,7 +72,7 @@ en kan nog veranderen indien dit niet mogelijk is voor mij
  
 
 </details>
-<img src="https://user-images.githubusercontent.com/38405579/133742704-014ae7d7-5cae-4e8c-bcbe-7f6ef5241633.jpg" width="300px" alt="eerste pagina"><br>
+<br><img src="https://user-images.githubusercontent.com/38405579/133742704-014ae7d7-5cae-4e8c-bcbe-7f6ef5241633.jpg" width="300px" alt="eerste pagina"><br>
 
 ## Voortgang 1 (week 2)
 
