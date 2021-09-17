@@ -56,7 +56,6 @@ Deze pagina gaat ook een hele challenge worden de kaart hoeft niet specifiek te 
 hier de naam van de pagina 
 <br><img src="https://user-images.githubusercontent.com/38405579/133742744-fe3bca65-7919-41e7-8b9e-c5056a53d711.jpg" width="300px" alt="eerste pagina"><br>
 
-
 Als micro transactie had ik het idee om blaadjes uit de 
 boom te laten dwarrelen, ik zou niet weten hoe dit 
 zou moeten werken dus dit is alleen nog maar een plan.
@@ -81,6 +80,8 @@ en kan nog veranderen indien dit niet mogelijk is voor mij
 <br><img src="https://user-images.githubusercontent.com/38405579/133742704-014ae7d7-5cae-4e8c-bcbe-7f6ef5241633.jpg" width="300px" alt="eerste pagina"><br>
 
 Breakdownschets Mobiel + Desktop, de desktop versie heb ik vanaf de frontend point of view gedaan en de mobiele echt vanuit backend dus echt in html geprobeerd te denken:)
+
+******* NOG TOEVOEGEN 2de PAGINA******
 
 
 
