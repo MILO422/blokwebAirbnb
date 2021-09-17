@@ -49,7 +49,10 @@ Locatie pagina:  https://www.airbnb.nl/s/Den-Haag/homes?place_id=ChIJcb2YQi-3xUc
 Deze pagina gaat ook een hele challenge worden de kaart hoeft niet specifiek te werken maar zou het leuk vinden als het idee van de paginas overeenkomen.
  
  
- #### Screenshot(s) Micro-interactie (small screen):
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+#### Screenshot(s) Micro-interactie (small screen):
 hier de naam van de pagina 
 <br><img src="https://user-images.githubusercontent.com/38405579/133742744-fe3bca65-7919-41e7-8b9e-c5056a53d711.jpg" width="300px" alt="eerste pagina"><br>
 
