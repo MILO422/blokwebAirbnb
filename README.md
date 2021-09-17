@@ -19,7 +19,7 @@ Blauw
 Responsive
  
 </details>
-Responsive proberen indien dit niet lukt, over op Surface. ik heb weinig ervaring maar weet wel wat dingen over html, helaas match ik niet met code ik ben te niet visueel om met code om te gaan wel ga ik het weer proberen as hard as i can :).
+Responsive proberen indien dit niet lukt, over op Surface. ik heb weinig ervaring maar weet wel wat dingen over html, helaas match ik niet met code ik ben te niet visueel om met code om te gaan wel ga ik het weer proberen as hard as I can :).
 
 
 
