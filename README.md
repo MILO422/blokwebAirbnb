@@ -84,8 +84,8 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - punt 2
 - nog een punt
 - ...
+ <img src="https://user-images.githubusercontent.com/38405579/133742736-ffbe3703-c6ca-4288-8b73-d707407c7c09.jpg" width="300px" alt="eerste pagina">
  
- ![Press-1-02](https://user-images.githubusercontent.com/38405579/133742736-ffbe3703-c6ca-4288-8b73-d707407c7c09.jpg)
 
 
 
@@ -121,9 +121,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - punt 2
 - nog een punt
 - ...
- 
- ![Press-1-03](https://user-images.githubusercontent.com/38405579/133742739-6adea77e-37ed-466d-8093-9c96afe9aad2.jpg)
-
+ <img src="https://user-images.githubusercontent.com/38405579/133742739-6adea77e-37ed-466d-8093-9c96afe9aad2.jpg" width="300px" alt="eerste pagina">
 
 </details>
 
