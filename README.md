@@ -50,6 +50,9 @@ hier de naam van de pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
+ 
+ <img src="url=https://postimg.cc/hXmXzxc5][img]https://i.postimg.cc/hXmXzxc5/Press-1-01.jpg[/img][/url" width="375px" alt="omschrijving van de pagina">
+ 
 [url=https://postimg.cc/hXmXzxc5][img]https://i.postimg.cc/hXmXzxc5/Press-1-01.jpg[/img][/url]
 
 [url=https://postimg.cc/zL1VnBfX][img]https://i.postimg.cc/zL1VnBfX/Press-1-02.jpg[/img][/url]
