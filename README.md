@@ -7,7 +7,7 @@ Blok web 17/09/2021 Milo van Sluis
 ## Jij
 
 <details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Project BLOK WEB </summary>
 
 ### Auteur:
 Milo van Sluis
@@ -33,14 +33,19 @@ Airbnb
 Airbnb homepagina plus (Locatie pagina met map/Ontdekken pagina)
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="https://user-images.githubusercontent.com/38405579/133741760-dc166924-764e-4b01-b6c5-db5508d9141c.PNG" width="300px" alt="eerste pagina">
+Home pagina Airbnb: https://www.airbnb.nl
+<img src="https://user-images.githubusercontent.com/38405579/133741760-dc166924-764e-4b01-b6c5-db5508d9141c.PNG" width="150px" alt="eerste pagina">
 
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="https://user-images.githubusercontent.com/38405579/133742457-0df506df-fb4b-4a42-8750-bc20780b2521.PNG" width="300px" alt="eerste pagina">
+Locatie pagina:  https://www.airbnb.nl/s/Den-Haag/homes?place_id=ChIJcb2YQi-3xUcREGwejVreAAQ&refinement_paths%5B%5D=%2Fhomes&search_type=section_navigation
+<img src="https://user-images.githubusercontent.com/38405579/133742457-0df506df-fb4b-4a42-8750-bc20780b2521.PNG" width="150px" alt="eerste pagina">
  
+ 
+ #### Screenshot(s) Micro-interactie (small screen):
+hier de naam van de pagina 
+ <img src="https://user-images.githubusercontent.com/38405579/133742744-fe3bca65-7919-41e7-8b9e-c5056a53d711.jpg" width="300px" alt="eerste pagina">
+
 </details>
 
 
@@ -57,8 +62,6 @@ hier de naam van de pagina
 
 </details>
 <img src="https://user-images.githubusercontent.com/38405579/133742704-014ae7d7-5cae-4e8c-bcbe-7f6ef5241633.jpg" width="300px" alt="eerste pagina">
-
-<img src="https://user-images.githubusercontent.com/38405579/133742744-fe3bca65-7919-41e7-8b9e-c5056a53d711.jpg" width="300px" alt="eerste pagina">
 
 ## Voortgang 1 (week 2)
 
