@@ -38,6 +38,7 @@ Home pagina Airbnb: https://www.airbnb.nl
 
 De website is semi moeilijk, ik wou iets cools uitzoeken maar toch niet te moelijk. (dit heb ik zeer onderschat het bouwen gaat totaal niet zo soepel als ik had verwacht)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Locatie pagina:  https://www.airbnb.nl/s/Den-Haag/homes?place_id=ChIJcb2YQi-3xUcREGwejVreAAQ&refinement_paths%5B%5D=%2Fhomes&search_type=section_navigation
