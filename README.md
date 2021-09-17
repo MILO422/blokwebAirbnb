@@ -54,10 +54,9 @@ hier de naam van de pagina
  
 
 </details>
-<img src="https://user-images.githubusercontent.com/38405579/133742457-0df506df-fb4b-4a42-8750-bc20780b2521.PNG" width="300px" alt="eerste pagina">
+<img src="https://user-images.githubusercontent.com/38405579/133742704-014ae7d7-5cae-4e8c-bcbe-7f6ef5241633.jpg" width="300px" alt="eerste pagina">
 
-
-
+<img src="https://user-images.githubusercontent.com/38405579/133742744-fe3bca65-7919-41e7-8b9e-c5056a53d711.jpg" width="300px" alt="eerste pagina">
 
 ## Voortgang 1 (week 2)
 
@@ -85,6 +84,10 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - punt 2
 - nog een punt
 - ...
+ 
+ ![Press-1-02](https://user-images.githubusercontent.com/38405579/133742736-ffbe3703-c6ca-4288-8b73-d707407c7c09.jpg)
+
+
 
 </details>
 
@@ -118,6 +121,9 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 - punt 2
 - nog een punt
 - ...
+ 
+ ![Press-1-03](https://user-images.githubusercontent.com/38405579/133742739-6adea77e-37ed-466d-8093-9c96afe9aad2.jpg)
+
 
 </details>
 
