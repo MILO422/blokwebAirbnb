@@ -50,13 +50,13 @@ hier de naam van de pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+[url=https://postimg.cc/hXmXzxc5][img]https://i.postimg.cc/hXmXzxc5/Press-1-01.jpg[/img][/url]
 
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+[url=https://postimg.cc/zL1VnBfX][img]https://i.postimg.cc/zL1VnBfX/Press-1-02.jpg[/img][/url]
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+[url=https://postimg.cc/Y4fj8H4N][img]https://i.postimg.cc/Y4fj8H4N/Press-1-03.jpg[/img][/url]
+
+[url=https://postimg.cc/wyqMGGJC][img]https://i.postimg.cc/wyqMGGJC/Press-1-04.jpg[/img][/url]
 
 </details>
 
