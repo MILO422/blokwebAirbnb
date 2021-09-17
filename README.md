@@ -32,13 +32,12 @@ Airbnb homepagina plus (Locatie pagina met map/Ontdekken pagina)
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-![IMG_5075](https://user-images.githubusercontent.com/38405579/133741760-dc166924-764e-4b01-b6c5-db5508d9141c.PNG)
 
 
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="https://postimg.cc/zL1VnBfX" width="375px" alt="omschrijving van de pagina">
+<img src="https://user-images.githubusercontent.com/38405579/133741760-dc166924-764e-4b01-b6c5-db5508d9141c.PNG" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
