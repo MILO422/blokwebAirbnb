@@ -80,6 +80,12 @@ en kan nog veranderen indien dit niet mogelijk is voor mij
 </details>
 <br><img src="https://user-images.githubusercontent.com/38405579/133742704-014ae7d7-5cae-4e8c-bcbe-7f6ef5241633.jpg" width="300px" alt="eerste pagina"><br>
 
+Breakdownschets Mobiel + Desktop, de desktop versie heb ik vanaf de frontend point of view gedaan en de mobiele echt vanuit backend dus echt in html geprobeerd te denken:)
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Voortgang 1 (week 2)
 
 <details>
