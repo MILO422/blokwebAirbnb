@@ -61,7 +61,7 @@ hier de naam van de pagina
 
 ### de hele pagina: 
  
- <img src="url=https://postimg.cc/hXmXzxc5][img]https://i.postimg.cc/hXmXzxc5/Press-1-01.jpg[/img][/url" width="375px" alt="omschrijving van de pagina">
+ <img src="url=https://i.postimg.cc/hXmXzxc5/Press-1-01.jpg" width="375px" alt="omschrijving van de pagina">
  
 [url=https://postimg.cc/hXmXzxc5][img]https://i.postimg.cc/hXmXzxc5/Press-1-01.jpg[/img][/url]
 
