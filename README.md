@@ -48,7 +48,7 @@ Deze pagina gaat ook een hele challenge worden de kaart hoeft niet specifiek te 
  
  #### Screenshot(s) Micro-interactie (small screen):
 hier de naam van de pagina 
- <img src="https://user-images.githubusercontent.com/38405579/133746456-efe6d51f-8bb7-4ec8-b85b-9a39b45f38df.png" width="300px" alt="eerste pagina">
+ <img src="https://user-images.githubusercontent.com/38405579/133742739-6adea77e-37ed-466d-8093-9c96afe9aad2.jpg" width="300px" alt="eerste pagina">
 
 
 Als micro transactie had ik het idee om blaadjes uit de 
