@@ -37,7 +37,7 @@ hier de naam van de pagina
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="https://user-images.githubusercontent.com/38405579/133741760-dc166924-764e-4b01-b6c5-db5508d9141c.PNG" width="300px" alt="eerste pagina">
+<img src="https://user-images.githubusercontent.com/38405579/133742457-0df506df-fb4b-4a42-8750-bc20780b2521.PNG" width="300px" alt="eerste pagina">
  
 </details>
 
@@ -54,7 +54,7 @@ hier de naam van de pagina
  
 
 </details>
-
+<img src="https://user-images.githubusercontent.com/38405579/133742457-0df506df-fb4b-4a42-8750-bc20780b2521.PNG" width="300px" alt="eerste pagina">
 
 
 
