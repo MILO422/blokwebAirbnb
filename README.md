@@ -1,13 +1,5 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
+Blok web 17/09/2021 Milo van Sluis last updated
 
 
 ## Jij
@@ -16,27 +8,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Sanne 't Hooft (vervangen door jouw naam)
+Milo van Sluis
 
 #### Je startniveau:
-hier je startniveau (kies uit zwart, rood óf blauw)
+Blauw
 
 #### Je focus:
-hier je focus (kies uit responsive óf surface plane)
+Responsive
  
 </details>
-
+Responsive proberen indien dit niet lukt, over op Surface
 
 
 
 
 ## Je website
 
-<details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
+https://www.airbnb.nl
+Airbnb
 
 ### Je opdracht:
-link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+Airbnb homepagina plus (Locatie pagina met map/Ontdekken pagina)
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
