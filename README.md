@@ -34,7 +34,7 @@ Airbnb homepagina plus (Locatie pagina met map/Ontdekken pagina)
 
 #### Screenshot van De eerste Pagina (small screen): 
 Home pagina Airbnb: https://www.airbnb.nl
-<img src="https://user-images.githubusercontent.com/38405579/133741760-dc166924-764e-4b01-b6c5-db5508d9141c.PNG" width="150px" alt="eerste pagina">
+<img src="https://user-images.githubusercontent.com/38405579/133746467-588f64ab-9e50-4c22-9386-152605784500.png" width="150px" alt="eerste pagina">
 
 De website is semi moeilijk, ik wou iets cools uitzoeken maar toch niet te moelijk. (dit heb ik zeer onderschat het bouwen gaat totaal niet zo soepel als ik had verwacht)
 
@@ -48,7 +48,8 @@ Deze pagina gaat ook een hele challenge worden de kaart hoeft niet specifiek te 
  
  #### Screenshot(s) Micro-interactie (small screen):
 hier de naam van de pagina 
- <img src="https://user-images.githubusercontent.com/38405579/133742744-fe3bca65-7919-41e7-8b9e-c5056a53d711.jpg" width="300px" alt="eerste pagina">
+ <img src="https://user-images.githubusercontent.com/38405579/133746456-efe6d51f-8bb7-4ec8-b85b-9a39b45f38df.png" width="300px" alt="eerste pagina">
+
 
 Als micro transactie had ik het idee om blaadjes uit de 
 boom te laten dwarrelen, ik zou niet weten hoe dit 
@@ -225,6 +226,10 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+ 
+ 
+ <img src="https://user-images.githubusercontent.com/38405579/133741760-dc166924-764e-4b01-b6c5-db5508d9141c.PNG" width="150px" alt="eerste pagina">
+<img src="https://user-images.githubusercontent.com/38405579/133742457-0df506df-fb4b-4a42-8750-bc20780b2521.PNG" width="150px" alt="eerste pagina">
 
 </details>
 
