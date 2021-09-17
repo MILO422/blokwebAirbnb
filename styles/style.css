@@ -1,5 +1,225 @@
-/* CSS Document */
+
+/*-*-*-*-*-*-*-*-*-*-*-*/
+/*-*-*- Css Wipe -*-*-*/
+
 *, *::after, *::before {
-  box-sizing:border-box;  
+  margin: 0; 
+  padding: 0;
 }
 
+
+
+
+
+ /*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-/
+/*-*-*- Algemene Custom Properties -*-*-*/
+
+:root {
+
+  /* Font colors */
+  --main-color:#242122;
+
+  /* Bg colors */
+  --background-color:#ffffff;
+  --background-secondary-color:#f7f7f7;
+
+  /* Accent colors */
+  --accent-color:#eb5857;
+}
+
+
+
+
+
+/*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-/
+/*-*-*- Algemene Stijlen -*-*-*/
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+/* Slidebare rows */
+
+header{
+    background:url(airbnb-bg-small.jpg) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+    margin: 0px;
+    padding: 0px;
+
+    position: relative;
+    
+}
+
+
+
+
+
+/* Logo */
+
+.logo{
+  width: 2em;
+  padding: 1em;
+}
+
+header:nth-of-type(1) a{
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
+
+/* Search balk */
+
+input{
+  font-size: 18px;
+  color: black;
+  text-align: center;
+
+  padding: 1% 6%;
+  margin: 1% 1%;
+  background-image: url(search-icon.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  outline: 0;
+  background-position: 12px;
+  background-size: 16px;
+
+  width: 300px;
+  height: 50px;
+  background-color: white;
+  border: none;
+  text-decoration: none;
+  border-radius: 35px;
+  
+  margin-left: 45px;
+
+  position: sticky;
+
+
+}
+
+header:nth-of-type(1) p{
+  margin-top: 110px;
+  margin-left: 115px;
+  margin-bottom: 5px;
+}
+
+
+
+
+
+
+/* knop */
+
+button {
+  width: 200px;
+  background-color: white;
+  border: none;
+  text-decoration: none;
+  border-radius: 35px;
+  max-height: 50px;
+  box-shadow: black 3px 3px 50px;
+
+
+
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  left: 50%;
+  transform: translateX(50%);
+}
+
+    
+  h2{
+    background: -webkit-linear-gradient(rgba(66,21,69,1), rgba(255,91,219,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+    padding: 0px;
+    font-size: 18px;
+  }
+
+
+/* Images (logo) */
+
+  img{
+    border-radius: 8px;
+    padding: 5px;
+    width: 50px;
+  } 
+
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
+
+
+/* Slidebare rows */
+
+ul:nth-of-type(1){
+  display:flex;
+  gap:.5em;
+  
+  overflow-x:auto;
+  scroll-snap-type: x mandatory;
+  overscroll-behavior:none;
+}
+
+li:nth-of-type(1){
+  flex-basis:5em;
+  align-items:center;
+  gap:.25em;
+  text-decoration-style: none;
+}
+
+ul:nth-of-type(2){
+  display:flex;
+  gap:.5em;
+  
+  overflow-x:auto;
+  scroll-snap-type: x mandatory;
+  overscroll-behavior:none;
+}
+
+li:nth-of-type(2){
+  flex-basis:5em;
+  align-items:center;
+  gap:.25em;
+  text-decoration-style: none;
+}
+
+ul, li{
+  list-style:none;
+}
+
+
+
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
