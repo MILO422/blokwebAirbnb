@@ -205,17 +205,16 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
  <br><img src="https://user-images.githubusercontent.com/38405579/134572047-7e509f01-fd77-4a1f-b5c0-4cf7fa67108e.jpg" width="300px" alt="eerste pagina"><br>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Na heel veel struggles in het begin met de header en het centreren hiervan, ging het in de opvolgende fase verschikkelijk goed na 30 min hulp van de studentenbegeleiders was het daarna alleen maar positief. ik schoot door de sit heen en heb in 3 uurtjes die hele pagina in elkaar gezet en ik ben er erg tevreden over.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+ 
+student Milo      
+ behandelen: scrollen terwijl je overflow x gebruikt
+ text decoration heb ik problemen mee werkt alleen bij *
+ 
 
 
 ### Verslag van meeting
