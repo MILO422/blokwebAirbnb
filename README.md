@@ -162,8 +162,6 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Toegankelijkheidstest (week 4)
 
-<br><img src="https://user-images.githubusercontent.com/38405579/134572047-7e509f01-fd77-4a1f-b5c0-4cf7fa67108e.jpg" width="150px" alt="eerste pagina"><br>
-
 <details>
 <summary>uitwerken na test in 8e voortgang</summary>
 
@@ -203,6 +201,8 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 
 <details>
 <summary>uitwerken voor 3e voortgang</summary>
+ 
+ <br><img src="https://user-images.githubusercontent.com/38405579/134572047-7e509f01-fd77-4a1f-b5c0-4cf7fa67108e.jpg" width="300px" alt="eerste pagina"><br>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
