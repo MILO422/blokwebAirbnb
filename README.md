@@ -162,7 +162,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Toegankelijkheidstest (week 4)
 
-<br><img src="https://user-images.githubusercontent.com/38405579/134572047-7e509f01-fd77-4a1f-b5c0-4cf7fa67108e.jpg"><br>
+<br><img src="https://user-images.githubusercontent.com/38405579/134572047-7e509f01-fd77-4a1f-b5c0-4cf7fa67108e.jpg" width="100px ><br>
 
 <details>
 <summary>uitwerken na test in 8e voortgang</summary>
