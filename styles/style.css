@@ -6,7 +6,7 @@
   margin: 0; 
   padding: 0;
   box-sizing: border-box;
-  text-decoration: none;
+
 }
 
 
@@ -22,13 +22,16 @@
   --main-color:#242122;
 
   /* Bg colors */
-  --background-color:#fffffsf;
-  --background-secondary-color:#f7f7f7;
+  --color-black: #000000;
+  --color-white: #f7f7f7;
+  --color-grey-light: #ebebeb;
+  --color-grey: #cfcece;
+  --color-grey-opcity:rgba(207, 206, 206, 0.3);
 
   /* Accent colors */
-  --accent-color:#eb5857;
+  --accent-color:#ec4e62;
+  --accent-color-brown:#201c1a;
 }
-
 
 body{
   margin: 0px;
@@ -41,13 +44,127 @@ body{
 
 
 
- /*-*-*-*-*-*-*-*-*-*-*-*-*-*/
-/*-*-*- Head Elements -*-*-*/
+/*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*/
+/*-*-*- Head Elements NAVIGATIE 1 -*-*-*/
+
+/* ------------------------ */
 
 .logo{
-  width: 2em;
-  padding: 1em;
+  width: 8em;
 }
+
+.topnav{
+  font-size: 0.9em;
+
+  background-position: 100%  ;
+  background-size: 1.1em;
+
+  width: 100%;
+  height: 3em;
+  border: none;
+}
+
+.topnav a{
+    color: var(--color-white);
+    float: left;
+    padding: 1em ;
+    padding-left: 5%;
+    font-weight: 500;
+}
+
+.topnav > ul li{
+   width: 100%;
+   color: var(--color-white);
+}
+
+.iconNav{
+  width: 2em;
+  margin-top: 11px;
+}
+
+.iconNav2 {
+  width: 4em;
+}
+
+
+
+
+ /*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*/
+/*-*-*- Head Elements NAVIGATIE 2 -*-*-*/
+
+.topnav2 {
+  background-color: var(--color-white);
+  font-size: 0.9em;
+  color: var(--color-black);
+  text-align: center;
+
+  padding: 1% 6%;
+  margin: 0 auto;
+  
+  background-position: 100%  ;
+  background-size: 1.1em;
+
+  width: 650px;
+  height: 6em;
+  border: none;
+  border-radius: 50px;
+  margin-top: 1em;
+
+}
+
+.topnav2 li {
+  float: left;
+}
+
+.topnav2 > li a {
+  display: block;
+  color: var(--color-black);
+  text-align: left;
+  padding: 1em 1em;
+  text-decoration: none;
+  left: auto;
+
+  border-style: none solid none none;
+  border-color: #cfcece;
+  border-width: 1px;
+  padding:  1em 2em 1em 0.4em ;
+}
+
+.topnav2 > li a:hover:not(.active) {
+  background-color: var(--color-grey-opcity);
+  border-radius: 35px;
+  padding: 1em;
+  transition: padding 1s, padding 1s;
+  border-style: none;
+}
+
+.topnav2 > li p{
+    opacity: 0.5;
+    color: var(--color-black);
+    
+}
+
+.search {
+  margin-left: 1em; 
+  border-style: none;
+  width: 4.4em;
+  height: 3.5em;
+  background-color: var(--accent-color);
+  border-radius: 35px;
+  background-image: url(../images/search-icon-white.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  background-position: 50% ;
+  background-size: 1.1em;
+}
+
+
+
+
+
+ /*-*-*-*-*-*-*-*-*-*-*-*-*-*/
+/*-*-*- Head Elements -*-*-*/
 
 header{
   height: 2em;
@@ -58,32 +175,31 @@ header{
 header:nth-of-type(1) a {
   text-align: center;
   font-size: 0.8em;
-  text-decoration: solid !important;
+  text-decoration: underline;
 }
 
 a:visited{
-  color: black;
+  color: var(--color-black);
 }
 
 /* Section balk */
 section.featured{
-    background:url(./images/airbnb-bg.png) no-repeat;
+    background-image: url(../images/airbnb-bg.png);
     background-size: cover;
     background-position: 60% 50%;
     height: 500px;
-
     text-align: center;
 }
 
 /* Search balk */
 section.featured input{
   font-size: 0.9em;
-  color: black;
+  color: var(--color-black);
   text-align: center;
 
   padding: 1% 6%;
   margin: 0 auto;
-  background-image: url(./images/search-icon.png);
+  background-image: url(../images/search-icon.png);
   background-size: contain;
   background-repeat: no-repeat;
   
@@ -113,12 +229,18 @@ section.featured p{
 }
 
 
-/* knop */
+
+
+
+/*-*-*-*-*-*-*-*-*-*-*-/
+/*-*-*- Buttons -*-*-*/
+
+
+/* buttons */
 
 button{
-  background-color: white;
+  background-color: var(--color-white);
   font-size: 0.9em;
-  color: black;
   text-align: center;
   border-radius: 35px;
   border: none;
@@ -132,7 +254,12 @@ button{
   margin-top: 1em;
 }
 
-    
+section.begin button{
+  border-radius: 10px;
+  height: 2.9em;
+  width: 200px;
+}
+
   h2{
     background: -webkit-linear-gradient(rgba(66,21,69,1), rgba(255,91,219,1) 100%);
     -webkit-background-clip: text;
@@ -141,15 +268,30 @@ button{
     font-size: 18px;
   }
 
+  /* a:link {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: black;
+  }
+  
+  a:active {
+    color: black;
+  } */
 
 
 
 
 
- /*-*-*-*-*-*-*-*-*-/
-/*-*-*- Logo -*-*-*/
+ /*-*-*-*-*-*-*-*-*-*/
+/*-*-*- Image -*-*-*/
 
-/* Images (logo) */
+/* Images */
 
   section.slider1 img{
     border-radius: 1.5em;
@@ -157,11 +299,56 @@ button{
     width: 8em;
   }
 
+  section.slider1 p{
+    margin-left: 1em;
+  }
+
   section.slider2 img{
     border-radius: 1.5em;
     padding: 1em;
     width: 20em;
+
   }
+
+  section.slider2 p{
+    margin-left: 1em;
+    font-weight: 500;
+    font-size: 1.2em;
+
+  }
+
+  section.slider1 a{
+    text-decoration: none;
+  }
+
+  section.slider2 a{
+    text-decoration: none;
+  }
+
+
+
+
+
+ /*-*-*-*-*-*-*-*-*-/
+/*-*-*- Titels -*-*-*/
+
+/* Titels */
+
+h3{
+  font-weight: 500;
+  margin-left: 0.9em;
+}
+
+h1{
+  padding-top: 1.5em;
+  margin-left: 0.7em;
+
+  font-weight: 500;
+  font-size: 1.4em;
+}
+
+
+
 
 
 
@@ -176,12 +363,17 @@ section ul{
   
   overflow-x:auto;
   scroll-snap-type: x mandatory;
-  overscroll-behavior:none;
+  overscroll-behavior-x:none;
 
-  padding-top: 3em;
-  padding-bottom: 3em;
+  -ms-overflow-style: none;
+
+  padding-bottom: 1.5em;
+
 }
 
+::-webkit-scrollbar{
+  display: none;
+}
 
 
 ul, li{
@@ -195,7 +387,7 @@ ul, li{
 /*-*-*- Begin met verhuren -*-*-*/
 
 section.begin{
-  background:url(./images/hosting-pic.jpg) no-repeat;
+  background:url(../images/hosting-pic.jpg) no-repeat;
   background-size: cover;
   background-position: 70% 100%;
   background-size: 40em;
@@ -204,24 +396,26 @@ section.begin{
   border-radius: 1.6em;
   margin: 1em;
 
-background-color: #222;
+background-color: var(--accent-color-brown);
   text-align: center;
 
-  color: white;
+  color: var(--color-white);
 }
 
 section.begin h3{
 padding-top: 0.7em;
-font-size: 2.6em;
-font-weight: 500;
+font-size: 2em;
 }
 
 section.begin p{
   padding-top: 0.7em;
   font-weight: 200;
-  font-size: 1.1em;
+  font-size: 1em;
   }
 
+button p{
+  margin-top: -0.5em;
+}
 
 
 
@@ -229,28 +423,168 @@ section.begin p{
 /*-*-*- Footer -*-*-*/
 
 footer{
-  background-color: #ebebeb;
-  border-style: solid none none none;
-  border-color: #cfcece;
+  background-color: var(--color-grey-light);
   text-decoration: none;
+  padding: 1.9em;
 }
 
 footer ul{
-  height: 10em;
-  padding: 1.9em;
   font-weight: 200;
-  margin-bottom: 3em;
-  border-style: solid none none none;
-  border-color: #cfcece;
+  margin-bottom: 1.9em;
+  padding: 0;
   
   
 }
+
+footer ul+ul{
+  border-style: solid none none none;
+  border-color: var(--color-grey);
+  border-width: 1px;
+  padding: 1.9em 0 0;
+}
+
+
+
 footer li{
   line-height: 1.4em;
+
+}
+
+footer ul a{
+  text-decoration: none;
 }
 
 
 .ftitel{
   font-weight: 300;
   text-transform: uppercase;
+}
+
+
+/*-*-*-*-*-*-*-*-*-*-*-*-*-*/
+/*-*-*- Resposivness -*-*-*/
+@media only screen and (max-width:663px){
+
+  .topnav{
+    display: none;
+  }
+
+  .topnav2{
+    display: none;
+  }
+
+
+}
+
+@media only screen and (min-width:663px){
+
+  input{
+    display: none;
+  }
+
+  section.begin{
+    background:url(../images/hosting-pic.jpg) no-repeat;
+    background-size: cover;
+    background-position: 100% 100%;
+    background-size: 50em;
+    
+    height: 22em;
+    border-radius: 1.6em;
+    margin: 1em;
+  
+    background-color: var(--accent-color-brown);
+    text-align: left;
+
+    padding: 1em;
+  }
+section.begin p{
+  width: 40%;
+}
+section.begin h3{
+  margin-left: 0em;
+}
+
+ /*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*/
+/*-*-*- Responsive header -*-*-*/
+
+}
+/*-*-*-*-*-*-*-*-*-*-**-*-*-*-*-*-*-*-*-*-**-*-*-*-*-*-*-*-*-*-**-*-*-*-*-*-*-*-*-*-*/
+
+
+ /*-*-*-*-*-*-*-*-*-*-*-/
+/*-*-*- Pagina 2 -*-*-*/
+
+section.slider3{
+background-color:var(--color-white);
+border-radius: 35px;
+z-index: 1;
+margin-top: -2em;
+}
+
+section.slider3 img{
+  border-radius: 1.5em;
+  padding: 1em;
+  width: 20em;
+
+}
+
+section.slider3 p{
+  margin-left: 1em;
+  font-weight: 500;
+  font-size: 1.2em;
+
+}
+
+section.slider3 a{
+  text-decoration: none;
+}
+
+section.featured{
+  background-image: url(../images/airbnb-map.jpeg);
+  background-size: cover;
+  background-position: 60% 50%;
+  height: 500px;
+  text-align: center;
+}
+
+.button2{
+  background-color: var(--color-white);
+  font-size: 0.9em;
+  text-align: center;
+  border-radius: 35px;
+  border: none;
+  width: 60%;
+  height: 4em;
+
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+
+  padding: 1% 6%;
+  margin: 0 auto;
+  margin-top: 1em;
+  color: var(--color-black);
+}
+.button2 a{
+  color: var(--color-black);
+}
+
+.slider3 p:nth-child(1){
+  color: var(--color-grey);
+  font-size: 0.9em;
+  font-weight: 200;
+  padding: 2em 0 0 0;
+  }
+
+.slider3 p:nth-child(2){
+  color: var(--color-black);
+  font-size: 0.9em;
+  font-weight: 200;
+  padding: 2em 0 2em 0;
+}
+
+header a:nth-child(1){
+  color: var(--color-black);
+}
+
+footer p{
+  color: var(--color-black);
 }
