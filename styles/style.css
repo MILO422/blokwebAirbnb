@@ -41,6 +41,50 @@ body{
 
 
 
+/*-*-*-*-*-*-*-*-*-*-*-*-*-*/
+/*-*-*- Cookie MENU  -*-*-*/
+
+/* ------------------------ */
+
+#panel, #flip {
+  background-color: #ec4e62;
+    width: 90%;
+    height: 10em;
+    color: white;
+    padding: 2em;
+    text-align: center;
+    border-radius: 35px;
+    font-size: 1em;
+    text-decoration: none;
+    position: fixed;
+    margin: 1em;
+    z-index: 2;
+    
+    
+}
+
+#panel {
+  display: block;
+}
+
+#flip{
+
+    background-color: white;
+    font-size: 0.9em;
+    border-radius: 35px;
+    border: none;
+    width: 6em;
+    height: 1em;
+    padding: 1em 1em 2em 1em;
+    left: 38%;
+
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: black;
+    
+}
+
+
 
 
 
@@ -65,11 +109,19 @@ body{
 }
 
 .topnav a{
-    color: var(--color-white);
+    color: var(--color-white) !important ;
     float: left;
-    padding: 1em ;
+    padding: 1em 0 0 0 ;
     padding-left: 5%;
     font-weight: 500;
+    text-decoration: none;
+    
+}
+
+.covidheader {
+  text-align: center;
+  font-size: 0.8em;
+  text-decoration: underline;
 }
 
 .topnav > ul li{
@@ -172,19 +224,12 @@ header{
   margin-top: 1em;
 }
 
-header:nth-of-type(1) a {
-  text-align: center;
-  font-size: 0.8em;
-  text-decoration: underline;
-}
-
 a:visited{
   color: var(--color-black);
 }
 
 /* Section balk */
 section.featured{
-    background-image: url(../images/airbnb-bg.png);
     background-size: cover;
     background-position: 60% 50%;
     height: 500px;
@@ -215,7 +260,7 @@ section.featured input{
   
 }
 
-section.featured p{
+section.featured > p{
   padding: 1% 6%;
   margin: 0 auto;
   font-weight: 400;
@@ -497,7 +542,7 @@ footer ul a{
 
     padding: 1em;
   }
-section.begin p{
+section.begin p:not(button p){
   width: 40%;
 }
 section.begin h3{
@@ -532,6 +577,7 @@ section.slider3 p{
   margin-left: 1em;
   font-weight: 500;
   font-size: 1.2em;
+  padding: 0;
 
 }
 
@@ -540,7 +586,6 @@ section.slider3 a{
 }
 
 section.featured{
-  background-image: url(../images/airbnb-map.jpeg);
   background-size: cover;
   background-position: 60% 50%;
   height: 500px;
@@ -579,10 +624,6 @@ section.featured{
   font-size: 0.9em;
   font-weight: 200;
   padding: 2em 0 2em 0;
-}
-
-header a:nth-child(1){
-  color: var(--color-black);
 }
 
 footer p{
