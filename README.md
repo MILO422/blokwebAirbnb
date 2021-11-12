@@ -212,7 +212,7 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. https://www.google.com/?client=safari
 2. The amazing Studenten assisten
-3. Sanne 't hooft
+3. Sanne 't hooft (the artist)
 
 </details>
 
