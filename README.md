@@ -42,7 +42,10 @@ Airbnb homepagina plus (Locatie pagina met map/Ontdekken pagina)
 Home pagina Airbnb: https://www.airbnb.nl
 <br><img src="https://user-images.githubusercontent.com/38405579/133746467-588f64ab-9e50-4c22-9386-152605784500.png" width="150px" alt="eerste pagina"><br>
 
-De website is semi moeilijk, ik wou iets cools uitzoeken maar toch niet te moelijk. (dit heb ik zeer onderschat het bouwen gaat totaal niet zo soepel als ik had verwacht)
+De website is semi moeilijk, ik wou iets cools uitzoeken maar toch niet te moelijk. (dit heb ik zeer onderschat het bouwen gaat totaal niet zo soepel als ik had verwacht) 
+
+Ik ben begonnen met het schrijven van de de content, oftewel alles in de juiste codes verdeeld en daar r
+De website is semi moeilijk, ik wou iets cools uitzoeken maar toch niet te moelijk. (dit heb ik zeer onderschat het bouwen gaat totaal niet zo soepel als ik had verwacht) na alle tekst hierin verdeedld
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -55,22 +58,6 @@ Deze pagina gaat ook een hele challenge worden de kaart hoeft niet specifiek te 
  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- 
-#### Screenshot(s) Micro-interactie (small screen):
-hier de naam van de pagina 
-<br><img src="https://user-images.githubusercontent.com/38405579/133742744-fe3bca65-7919-41e7-8b9e-c5056a53d711.jpg" width="300px" alt="eerste pagina"><br>
-
-Als micro transactie had ik het idee om blaadjes uit de 
-boom te laten dwarrelen, ik zou niet weten hoe dit 
-zou moeten werken dus dit is alleen nog maar een plan.
-
-en kan nog veranderen indien dit niet mogelijk is voor mij
-
-</details>
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ## Breakdownschets (week 1)
 
@@ -85,8 +72,10 @@ en kan nog veranderen indien dit niet mogelijk is voor mij
 
 Breakdownschets Mobiel + Desktop, de desktop versie heb ik vanaf de frontend point of view gedaan en de mobiele echt vanuit backend dus echt in html geprobeerd te denken:)
 
-******* NOG TOEVOEGEN 2de PAGINA******
+******* 2de PAGINA ******
+<br><img src="https://user-images.githubusercontent.com/38405579/133742704-014ae7d7-5cae-4e8c-bcbe-7f6ef5241633.jpg" width="300px" alt="eerste pagina"><br>
 
+aangezien de website recent is veranderd is dit helaas niet mogelijk, les geleerd rond dit soort taken meteen uit.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -264,7 +253,7 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
+1. https://www.google.com/?client=safari
 2. bron 2
 3. ...
 
