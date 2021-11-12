@@ -73,9 +73,9 @@ Deze pagina gaat ook een hele challenge worden de kaart hoeft niet specifiek te 
 Breakdownschets Mobiel + Desktop, de desktop versie heb ik vanaf de frontend point of view gedaan en de mobiele echt vanuit backend dus echt in html geprobeerd te denken:)
 
 ******* 2de PAGINA ******
-<br><img src="https://user-images.githubusercontent.com/38405579/133742704-014ae7d7-5cae-4e8c-bcbe-7f6ef5241633.jpg" width="300px" alt="eerste pagina"><br>
+<br><img src="https://user-images.githubusercontent.com/38405579/133746456-efe6d51f-8bb7-4ec8-b85b-9a39b45f38df.png" width="150px" alt="eerste pagina"><br>
 
-aangezien de website recent is veranderd is dit helaas niet mogelijk, les geleerd rond dit soort taken meteen uit.
+aangezien de website recent is veranderd is dit helaas niet mogelijk, les geleerd rond dit soort taken meteen uit. gelukkig had ik nog een screenshot van de breakdown.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -92,22 +92,14 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+- problemen met header
+- problemen met centreren tekst en button in header
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- gebruik inplaats van foto achtergrond image
+  je kan de achtergrond image verplaatsen met  background-position:; en background-size:;
+- voor de tekst was ik met een student assitente in een call gegaan om het samen uit te vissen :)
 
 
 
@@ -130,22 +122,11 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Overscroll probleem als je kon bij de plekken waar je naarechts scrolde niet naar benden
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- fix was overscroll-x op  zetten auto
 
 </details>
 
@@ -159,30 +140,11 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken na test in 8e voortgang</summary>
 
 ### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
+Mensen met een visuele weten niet zomaar dat ze kunnen scrollen
+alt teksten zijn niet goed waardoor mensen dien gebruik maken van spraak functie problemen kunnen ondervinden
+De contrasten op wit werken wel heel goed(heel duidelijk)
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+]
 
 </details>
 
@@ -198,26 +160,24 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
  <br><img src="https://user-images.githubusercontent.com/38405579/134572047-7e509f01-fd77-4a1f-b5c0-4cf7fa67108e.jpg" width="300px" alt="eerste pagina"><br>
 
 ### Stand van zaken
-Na heel veel struggles in het begin met de header en het centreren hiervan, ging het in de opvolgende fase verschikkelijk goed na 30 min hulp van de studentenbegeleiders was het daarna alleen maar positief. ik schoot door de sit heen en heb in 3 uurtjes die hele pagina in elkaar gezet en ik ben er erg tevreden over.
+Na heel veel struggles in het begin met de header en het centreren hiervan, ging het in de opvolgende fase verschikkelijk goed na 30 min hulp van de studentenbegeleiders was het daarna alleen maar positief. ik schoot door de sit heen en heb in 3 uurtjes die hele pagina in elkaar gezet en ik ben er erg tevreden over. (een succes)
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
+-Footer responsivness
+-
  
 student Milo      
- behandelen: scrollen terwijl je overflow x gebruikt
+ behandelen: scrollen terwijl je overflow x gebruikt was nogsteeds niet gelukt
  text decoration heb ik problemen mee werkt alleen bij *
  
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
+text decoraion kan je alleen op de a toepassen
+overflow samen in groupscall gefixt nadat we eerst fix hadden gedaan was er wat veranderd
+ 
+ 
 </details>
 
 
@@ -230,13 +190,10 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Na Veel succes de vorige ronde ging het wat minder soepel met de laatste loodjes, veel kleien probleempjes die mij niet lukte te perfectioneren
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
- 
- 
  <img src="https://user-images.githubusercontent.com/38405579/133741760-dc166924-764e-4b01-b6c5-db5508d9141c.PNG" width="150px" alt="eerste pagina"><br>
 <img src="https://user-images.githubusercontent.com/38405579/133742457-0df506df-fb4b-4a42-8750-bc20780b2521.PNG" width="150px" alt="eerste pagina"><br>
 
@@ -254,8 +211,8 @@ hier screenshot(s) van je eindresultaat
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. https://www.google.com/?client=safari
-2. bron 2
-3. ...
+2. The amazing Studenten assisten
+3. Sanne 't hooft
 
 </details>
 
