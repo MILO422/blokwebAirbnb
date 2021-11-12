@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+<div id="panel">
+  Om je beter en persoonlijker te helpen, gebruiken wij cookies en vergelijkbare technieken. Naast functionele cookies,klik hier om meer te lezen
+  
+  <p id="flip" onclick="myFunction()">Toestemmen</p>
+  
+</div>
+
+<style>
+  #panel, #flip {
+  background-color: #ec4e62;
+    width: 90%;
+    height: 5%;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    border-radius: 35px;
+    font-size: 1em;
+    
+}
+
+#panel {
+  display: block;
+}
+
+#flip{
+    background-color: white;
+    font-size: 0.9em;
+    border-radius: 35px;
+    border: none;
+    width: 6em;
+    height: 2em;
+    padding-left: 25px;
+
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    color: black;
+}
+</style>
+
+
+<script>
+function myFunction() {
+  document.getElementById("panel").style.display = "none";
+  document.getElementById("flip").style.display = "none";
+}
+
+
+</script>
+  </body>
+</html>
